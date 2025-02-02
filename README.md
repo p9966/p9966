@@ -1,4 +1,4 @@
-- 😏 Yes, I am Simple 💢
+😏 Yes, I am Simple 💢
   
 <!---
 p9966/p9966 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
